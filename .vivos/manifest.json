@@ -1,0 +1,16 @@
+{
+  "name": "COGNITIVE-SDK",
+  "version": "13.0",
+  "aggregate": true,
+  "repositories": [
+    "guitriloco/Sovereign-Intelligence-SDK",
+    "guitriloco/Understand-Anything",
+    "guitriloco/terax-ai"
+  ],
+  "pillars": [
+    "Intelligence",
+    "Cognition",
+    "Interface"
+  ],
+  "vivos_standard": "VIVOS-13.0-SUPREME"
+}
